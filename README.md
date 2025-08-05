@@ -1,4 +1,4 @@
-# KGUNLEARNING: Schema-Guided Knowledge Unlearning for Knowledge Graphs
+# SGKEU: Schema-Guided Knowledge Unlearning for Knowledge Graphs
 
 A PyTorch implementation of Schema-Guided Knowledge Unlearning (SGKU) for knowledge graphs, designed to selectively forget specific knowledge while preserving the overall model performance.
 
